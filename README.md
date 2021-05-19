@@ -1,2 +1,2 @@
-# YingdaFan-AI-Project4-QLearning
-QLearning Exercise
+# QLearning
+QLearning Exercise achieved by Python
